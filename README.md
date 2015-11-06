@@ -76,4 +76,3 @@ You can build on this project to learn more about the Apigee Edge solution.
 ## Add resources
 
 **TODO**
-
