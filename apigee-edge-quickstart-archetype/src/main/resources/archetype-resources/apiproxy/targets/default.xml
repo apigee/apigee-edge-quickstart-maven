@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TargetEndpoint name="default">
+  <Description/>
+  <PreFlow name="PreFlow">
+    <Request/>
+    <Response/>
+  </PreFlow>
+  <Flows/>
+  <PostFlow name="PostFlow"/>
+  <HTTPTargetConnection>
+    <URL>http://api.wunderground.com/api/1305fc3b4fe5e2e6/conditions/q/</URL>
+  </HTTPTargetConnection>
+</TargetEndpoint>
