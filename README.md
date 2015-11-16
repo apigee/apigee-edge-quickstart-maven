@@ -6,16 +6,7 @@ as a way to get familiar with Enterprise API management.
 
 ## Installing
 
-This archetype is not yet available on Maven Central, so to use it you will need to 
-build it locally before generating projects.
-
-```
-> git clone git@github.com:apigee/apigee-edge-quickstart-maven.git
-> cd apigee-edge-quickstart-maven
-> mvn install
-```
-
-Once its installed, you can safely remove the directory that was created.
+This archetype is now available on Maven Central (since version 1), and as such can be used without any special steps.
 
 ## Creating a simple project
 
