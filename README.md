@@ -1,3 +1,5 @@
+![](https://circleci.com/gh/apigee/apigee-edge-quickstart-maven.svg?style=shield&circle-token=:circle-token)
+
 # apigee-edge-quickstart-archetype
 
 This is a Maven archetype for creating a shell project for 
