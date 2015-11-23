@@ -56,7 +56,14 @@ You can build on this project to learn more about the Apigee Edge solution.
 
 ## More targets
 
-**TODO**
+Need to add a new target endpoint?  There's a script created in your "bin/" directory that, when
+you specify a name and a url, will generate a basic endpoint skeleton.
+
+```
+> bin/new-target.sh -u <endpoint-url> -n <endpoint-name>
+```
+
+This utility is only available in a 2-SNAPSHOT local build.
 
 ## More proxies
 
