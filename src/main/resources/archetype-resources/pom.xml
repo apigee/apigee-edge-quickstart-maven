@@ -49,6 +49,7 @@
     <orgName>$apigeeEdgeOrgname</orgName>
     <orgUserId>$apigeeEdgeUsername</orgUserId>
     <orgPassword>$apigeeEdgePassword</orgPassword>
+    <apiName>$apigeeEdgeApiName</apiName>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <org>${orgUserId}</org>
     <options>validate</options>
@@ -59,6 +60,7 @@
     <apigee.org>${org}</apigee.org>
     <apigee.username>${orgName}</apigee.username>
     <apigee.password>${orgPassword}</apigee.password>
+    <apigee.apiname>${apiName}</apigee.apiname>
     <apigee.options>${options}</apigee.options>
   </properties>
 
