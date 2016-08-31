@@ -15,6 +15,7 @@
     <requiredProperty key="apigeeEdgeOrgname"/>
     <requiredProperty key="apigeeEdgeUsername"/>
     <requiredProperty key="apigeeEdgePassword"/>
+    <requiredProperty key="apigeeEdgeApiName"/>
   </requiredProperties>
 
   <fileSets>
